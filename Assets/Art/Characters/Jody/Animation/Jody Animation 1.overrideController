@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jody Animation 1
+  m_Controller: {fileID: 9100000, guid: 8798ea07ae4ad3c409a81a3f76e61751, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 2b0d6298f187afa488968c6ef329db43,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 247a167bddc422f419e2d6f1652359e2,
+      type: 3}
