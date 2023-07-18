@@ -1,4 +1,4 @@
 *.cs linguist-detectable=true
 *.shader linguist-detectable=false
 *.cginc linguist-detectable=false
-*.wtl linguist-detectable=false
+*.wlt linguist-detectable=false
