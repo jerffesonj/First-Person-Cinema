@@ -36,7 +36,7 @@ Mouse - Look around
 To interact with the posters just look to the <b>Play</b>, it will start automatically.
 
 # About
-Game made in 5 days using Unity, using art assets from Mixamo and Skecthfab.
+Game made in 5 days using Unity, using art assets from Mixamo and Sketchfab.
 
 The main goal was to show three different videos and play it on a screen like a cinema.
 To play the video inside of Unity was implemented the Youtube Player repository from iBicha and only with the video link the game plays automatically with no need to downloading it before building the game.
